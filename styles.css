@@ -104,6 +104,7 @@ details p { color: var(--muted); font-size: 14px; line-height: 1.75; margin-bott
 .approach { display: grid; grid-template-columns: 1.1fr 1fr; gap: 100px; padding-block: 70px 90px; border-top: 1px solid var(--line); }
 .approach h2 { margin-top: 16px; }
 .approach-lead { max-width: 460px; font-size: 17px; line-height: 1.75; margin-top: 25px; color: var(--muted); }
+.approach .media-note { max-width: 460px; font-size: 14px; }
 .approach-steps > div { padding-block: 22px; border-bottom: 1px solid var(--line); }
 .approach-steps > div:first-child { padding-top: 0; }
 .approach-steps h3 { font-size: 18px; font-weight: 600; margin-bottom: 10px; }
